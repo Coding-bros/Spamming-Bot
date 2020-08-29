@@ -17,6 +17,9 @@
 ## Now For **MacOS** Users
 
 **You Need To Give Permissions**
+> use pip3 install pyautogui
+
+>if permission denied comes, add "sudo" before pip3
 
 > A PROMPT WILLOPEN ONCE YOU TRY TO RUN THE SCRIPT
 
