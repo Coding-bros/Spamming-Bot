@@ -17,15 +17,15 @@
 ## Now For **MacOS** Users
 
 **You Need To Give Permissions**
-> use pip3 install pyautogui
+> USE "pip3 install pyautogui"
 
->if permission denied comes, add "sudo" before pip3
+> IF ***PERMISSION DENIED*** COMES, ADD **sudo** BEFOE **pip3**
 
 > A PROMPT WILLOPEN ONCE YOU TRY TO RUN THE SCRIPT
 
 > IT WILL ASK YOUR ***MACOS PASSWORD***
 
-> Type in the password and then it will install
+> TYPE IN YOUR PASSWORD AND IT SHOULD START INSTALLATION
 
 > THEN THE PYTHON CODE SHOULD WORK ***PROPERLY***
 
@@ -39,3 +39,8 @@
 **THEN YOU PRESS ENTER AND THE BOT SHOULD START WORKING**
 
 **HOPE YOU ENJOY MY BOT :)**
+
+# ANY PROBLEMS?
+***CONTACT US TO:***
+- jaideep1163@gmail.com
+- bkp.karthi@gmail.com
