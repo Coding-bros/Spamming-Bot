@@ -60,4 +60,4 @@ for i in range(b):
     # this line of code writes the text which we want to spam
     pyautogui.typewrite(A)
     # this line of code hits enter in your keyboard
-    pyautogui.press("enter")```
+    pyautogui.press("enter")
