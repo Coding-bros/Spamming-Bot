@@ -19,7 +19,7 @@
 **You Need To Give Permissions**
 > USE "pip3 install pyautogui"
 
-> IF ***PERMISSION DENIED*** COMES, ADD **Create a Virtual Env** and download again
+> IF ***PERMISSION DENIED*** COMES, **Create a Virtual Env** and download again
 
 > THEN THE PYTHON CODE SHOULD WORK ***PROPERLY***
 
@@ -34,16 +34,16 @@
 
 **HOPE YOU ENJOY MY BOT :)**
 
-***Code***
-```python
+# Code
+``python
 import pyautogui
 A = str(input("\033[1;34;;1mWhat Do You want to Spam:"))
 b = int(input("\033[1;30;1mHow many Times Do You Want to Spam:"))
 for i in range(b):
     pyautogui.typewrite(A)
-    pyautogui.press("enter")```
+    pyautogui.press("enter")``
 
-# ANY PROBLEMS?
+# Any Problems
 ***CONTACT US TO:***
 - jaideep1163@gmail.com
 - bkp.karthi@gmail.com
