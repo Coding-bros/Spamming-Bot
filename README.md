@@ -19,13 +19,7 @@
 **You Need To Give Permissions**
 > USE "pip3 install pyautogui"
 
-> IF ***PERMISSION DENIED*** COMES, ADD **sudo** BEFOE **pip3**
-
-> A PROMPT WILLOPEN ONCE YOU TRY TO RUN THE SCRIPT
-
-> IT WILL ASK YOUR ***MACOS PASSWORD***
-
-> TYPE IN YOUR PASSWORD AND IT SHOULD START INSTALLATION
+> IF ***PERMISSION DENIED*** COMES, ADD **Create a Virtual Env** and download again
 
 > THEN THE PYTHON CODE SHOULD WORK ***PROPERLY***
 
