@@ -42,14 +42,18 @@
 
 # Code
 ```python
-# importing pyautogui
+# importing pyautogui and time (no need to install time as it is a default module in python)
 import pyautogui
+import time
 
 # this input asks us what we want to spam, the numbers before the text are to add color to the text
 A = str(input("\033[1;34;;1mWhat Do You want to Spam:"))
 
 # This input asks us how many times we want to spam the text, the numbers before the text are to add the color to the text.
 b = int(input("\033[1;30;1mHow many Times Do You Want to Spam:"))
+
+# adding a pause for 1 sec, so that it doesn't spam your terminal
+time.sleep(1)
 
 # this loop is to repeat the the code, till it reaches the number of times we added before, in how many times we want to spam
 for i in range(b):
